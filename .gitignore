@@ -1,6 +1,8 @@
 backend/*.env
 backend/node_modules
+backend/package-lock.json
 backend/Extra
 
 frontend/node_modules
+frontend/package-lock.json
 frontend/*.env
